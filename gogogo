@@ -1,0 +1,13 @@
+1.操作环境：
+阿里云轻量级服务器
+操作系统：Centos 7.3
+2.下载并安装
+2.1 安装wget
+yum install -y wget
+2.2 安装宝塔Linux 控制面板
+wget -O install.sh http://download.bt.cn/install/install.sh && sh install.sh
+安装成功后入下图1所示，可以看到自己的账户和密码
+ 
+xje6r18z
+c6e3909a
+https://www.jianshu.com/p/ed2e655c3741
